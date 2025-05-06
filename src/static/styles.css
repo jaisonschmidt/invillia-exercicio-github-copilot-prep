@@ -142,3 +142,14 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant {
+  list-style-type: none; /* Remove bullets */
+  padding: 5px;
+  margin: 3px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  font-size: 14px;
+  color: #333;
+}
